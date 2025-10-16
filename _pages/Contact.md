@@ -1,5 +1,5 @@
 ---
-title: "Reach out"
+title: "Contacts"
 permalink: /contact/
 layout: posts
 author_profile: true
