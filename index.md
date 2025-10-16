@@ -5,11 +5,8 @@
 layout: single
 author_profile: true
 ---
-Hello,
 
-Welcome to my portfolio! 
-
-About Me;
+**About Me**;
  
 My passion for network security and digital forensics led me to earn a degree in Computer Security and Forensics from Jaramogi Oginga Odinga University of Science and Technology. This academic foundation has equipped me with strong core knowledge in networking principles,information security concepts and The world of Digital Forensics.
 
