@@ -4,8 +4,9 @@ permalink: /contact/
 layout: posts
 author_profile: true
 header:
-  overlay_image: /assets/images/connect.jpg # <-- Path to your new gears image
-  overlay_filter: 0.4
+  overlay_image: /assets/images/connect-header.jpg # <-- Path to your new connection image
+  overlay_filter: 0.5
+
 ---
 
 # Get In Touch
