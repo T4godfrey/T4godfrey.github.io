@@ -1,4 +1,5 @@
 ---
+title: /Contacts/
 permalink: /contact/
 title: "Reach out"
 ---
