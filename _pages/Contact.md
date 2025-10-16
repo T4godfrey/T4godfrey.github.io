@@ -3,6 +3,9 @@ title: "Contacts"
 permalink: /contact/
 layout: posts
 author_profile: true
+header:
+  overlay_image: /assets/images/connect.jpg # <-- Path to your new gears image
+  overlay_filter: 0.4
 ---
 
 # Get In Touch
