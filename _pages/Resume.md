@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 permalink: /resume/
-layout: tags
+
 author_profile: true
 ---
 # Godfrey Otieno Odhiambo
