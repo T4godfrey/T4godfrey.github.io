@@ -16,7 +16,7 @@ author_profile: true
 
 ### Download Hard Copy
 
-<a href="/assets/documents/Godfrey_Otieno_Resume.pdf" class="btn btn--primary" download="Godfrey_Otieno_Resume.pdf">
+<a href="https://drive.google.com/file/d/1q8CQ9i012ghapQaKu98WcpYXuwjsxuzw/export?format=pdf&download=1" class="btn btn--primary" target="_blank">
     <i class="fas fa-file-download"></i> Download Resume (PDF)
 </a>
 
