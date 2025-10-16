@@ -1,8 +1,9 @@
 ---
-title: "Contact"
+title: "Reach Out"
 layout: single
 permalink: /contact/
-author_profile: true
+author_profile: False
+
 header:
   overlay_image: /assets/images/connect.jpg # <-- Path to your new gears image
   overlay_filter: 0.4
