@@ -4,46 +4,65 @@ layout: single
 permalink: /projects/
 author_profile: true
 header:
-  overlay_image: /assets/images/kabana.jpg # <-- Path to your new gears image
-  overlay_filter: 0.4
+  overlay_image: /assets/images/kabana.jpg # The gears image
+  overlay_filter: 0.4 
+  caption: "Image: Mechanical Processes"
+page_title: "My Technical Projects & Labs"
 ---
 
-# Projects
+# Projects & Labs Showcase
 
-## Home Lab Network Infrastructure
-**Tools:** Cisco Packet Tracer, VLANs, pfSense, Wireshark
+## Completed Work
 
+### 1. Home Lab Network Infrastructure
 **Goal:** Design and implement a secure, segmented network for a small business environment.
 
-**Process:**
-- Created three segregated VLANs (Guest, Employees, Servers)
-- Configured pfSense firewall with ACLs between VLANs
-- Implemented NAT rules for internet access
-- Used Wireshark for traffic analysis and verification
+**Tools Used:**
+<span class="label label-danger">Cisco Packet Tracer</span>
+<span class="label label-success">pfSense</span>
+<span class="label label-warning">Wireshark</span>
+<span class="label label-info">VLANs</span>
 
-**Outcome:** Successfully demonstrated network segmentation principles and firewall policy management.
+**Outcome:**
+Successfully demonstrated network segmentation principles and firewall policy management, ensuring data isolation between Guest, Employee, and Server networks.
+
+<blockquote class="blockquote-success">
+  <i class="fas fa-check-circle"></i> **Key Result:** Proven capability in implementing and managing security and networking policies via pfSense.
+</blockquote>
 
 ---
 
-## SIEM Lab Setup with Elastic Stack
-**Tools:** Elasticsearch, Logstash, Kibana, Linux
+### 2. Continuous MFA: Smart Student Authentication (Final Year Project)
 
-**Goal:** Build a functional SIEM to analyze and visualize security logs.
+[cite_start]**Goal:** Developed an adaptive, **Continuous Multi-Factor Authentication (CMFA)** system to secure student data platforms by verifying user identity **beyond the initial login**[cite: 408, 432].
 
-**Process:**
-- Deployed Elastic Stack on Ubuntu server
-- Configured Logstash to ingest firewall logs
-- Created Kibana dashboards for security monitoring
-- Implemented basic alerting rules
+**Tools Used:**
+<span class="label label-danger">Python</span>
+<span class="label label-warning">PostgreSQL</span>
+<span class="label label-success">k-NN Algorithm</span>
+<span class="label label-info">pynput / scikit-learn</span>
 
-**Outcome:** Gained hands-on experience with enterprise security monitoring tools.
+**Innovation & Outcome:**
+[cite_start]The system uses **keystroke dynamics** (typing rhythm biometrics) to create a unique user profile[cite: 433]. [cite_start]It implements the **K-Nearest Neighbor (k-NN) algorithm** for real-time, continuous monitoring, detecting anomalies, and preventing unauthorized data access or modification within an active session[cite: 435, 456, 651].
+
+---
+
+## Continuing Projects
+
+### Cloud Security Monitoring (AWS/Azure)
+**Goal:** Integrate cloud environment logs (e.g., S3/Blob storage access) into a central SIEM platform for unified visibility.
+
+### Automated Vulnerability Scanning
+**Goal:** Implement a recurring vulnerability assessment workflow using tools like OpenVAS or Nessus to continuously audit internal infrastructure.
+
+---
 
 ## Lab Challenges & CTF (TryHackMe & HTB)
 
 ### Active Challenges
-* **TryHackMe:** Currently working through the **SOC Level 1 Path** (Focusing on network analysis and SIEM fundamentals).
-* **CTF Focus:** Practicing common web application vulnerabilities (Injection, XSS) and basic privilege escalation.
+* **TryHackMe:** Currently focusing on the **SOC Level 1 Path** (Focusing on network analysis and SIEM fundamentals).
+* **CTF Focus:** Practicing common web application vulnerabilities (Injection, XSS) and basic privilege escalation techniques.
 
 ---
 
-[Ready to Collaborate? Contact Me](/contact/)
+<a href="/contact/" class="btn btn--success"><i class="fas fa-envelope"></i> Ready to Collaborate? Contact Me</a>
