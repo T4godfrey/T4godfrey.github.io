@@ -1,5 +1,6 @@
 ---
 title: "view my work"
+layout: single
 permalink: /projects/
 author_profile: true
 ---
