@@ -5,12 +5,11 @@ layout: single
 permalink: /contact/
 author_profile: true
 header:
-  overlay_image: /assets/images/connect-header.jpg # <-- Path to your new connection image
-  overlay_filter: 0.5 # Adjust for desired darkness; 0.5 works well for this image
-  caption: "Image: Reaching Out" # Optional: A caption for the image
-page_title: "Let's Connect!" # <-- This title will appear on the image
----
-# Get In Touch
+  overlay_image: /assets/images/connect.jpg 
+  overlay_filter: 0.5
+ page_title: "Let's Connect!" 
+ ---
+
 
 I am actively seeking internship and entry-level roles in Network Security and Digital Forensics. Feel free to connect!
 
