@@ -3,6 +3,9 @@ title: "View My Work"
 layout: single
 permalink: /projects/
 author_profile: true
+header:
+  overlay_image: /assets/images/kabana.jpg # <-- Path to your new gears image
+  overlay_filter: 0.4
 ---
 
 # Projects
