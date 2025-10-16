@@ -1,5 +1,5 @@
 ---
-title: "view my work"
+title: "View My Work"
 layout: single
 permalink: /projects/
 author_profile: true
@@ -34,3 +34,13 @@ author_profile: true
 - Implemented basic alerting rules
 
 **Outcome:** Gained hands-on experience with enterprise security monitoring tools.
+
+## Lab Challenges & CTF (TryHackMe & HTB)
+
+### Active Challenges
+* **TryHackMe:** Currently working through the **SOC Level 1 Path** (Focusing on network analysis and SIEM fundamentals).
+* **CTF Focus:** Practicing common web application vulnerabilities (Injection, XSS) and basic privilege escalation.
+
+---
+
+[Ready to Collaborate? Contact Me](/contact/)
