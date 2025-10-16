@@ -2,13 +2,12 @@
 title: "Reach Out"
 layout: single
 permalink: /contact/
-author_profile: False
-
+author_profile: false  # Corrected to lowercase 'false'
 header:
-  overlay_image: /assets/images/connect.jpg # <-- Path to your new gears image
-  overlay_filter: 0.4
- ---
-
+  overlay_image: /assets/images/connect.jpg # Corrected to your filename
+  overlay_filter: 0.5 # A slight increase for better text contrast
+  page_title: "Let's Connect!" # Added page title for header overlay
+---
 
 I am actively seeking internship and entry-level roles in Network Security and Digital Forensics. Feel free to connect!
 
@@ -24,10 +23,3 @@ I am actively seeking internship and entry-level roles in Network Security and D
 
 <a href="https://www.linkedin.com/in/ogodfreyotieno" class="btn btn--linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
 <a href="https://github.com/T4godfrey" class="btn btn--github"><i class="fab fa-github"></i> GitHub</a>
-
-**GitHub:** [View my projects](https://github.com/T4godfrey)
-
----
-
-## Let's Work Together
-Interested in discussing how I can contribute to your security team? Feel free to reach out!
