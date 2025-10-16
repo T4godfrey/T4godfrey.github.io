@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/BackG.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.2
 ---
 
 **About Me**;
