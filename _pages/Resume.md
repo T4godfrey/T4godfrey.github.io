@@ -60,3 +60,7 @@ Detail-oriented IT security professional with a strong foundation in network sec
 ### **BSc. Computer Security and Forensics**
 **Jaramogi Oginga Odinga University of Science and Technology (JOOUST)**  
 *September 2021 - Present*
+
+###Download Hard Copy
+<a href="/assets/documents/godfreyOtienoCv.pdf" class="btn btn--primary download="GodfreyOtienoCv.pdf">
+<i class="fas fa-file-download"></i> Download a copy (PDF) </a>
