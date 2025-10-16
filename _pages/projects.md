@@ -34,7 +34,7 @@ Successfully demonstrated network segmentation principles and firewall policy ma
 
 ### 2. Continuous MFA: Smart Student Authentication (Final Year Project)
 
-[cite_start]**Goal:** Developed an adaptive, **Continuous Multi-Factor Authentication (CMFA)** system to secure student data platforms by verifying user identity **beyond the initial login**[cite: 408, 432].
+**Goal:** Developed an adaptive, **Continuous Multi-Factor Authentication (CMFA)** system to secure student data platforms by verifying user identity **beyond the initial login**.
 
 **Tools Used:**
 <span class="label label-danger">Python</span>
@@ -43,7 +43,7 @@ Successfully demonstrated network segmentation principles and firewall policy ma
 <span class="label label-info">pynput / scikit-learn</span>
 
 **Innovation & Outcome:**
-[cite_start]The system uses **keystroke dynamics** (typing rhythm biometrics) to create a unique user profile[cite: 433]. [cite_start]It implements the **K-Nearest Neighbor (k-NN) algorithm** for real-time, continuous monitoring, detecting anomalies, and preventing unauthorized data access or modification within an active session[cite: 435, 456, 651].
+The system uses **keystroke dynamics** (typing rhythm biometrics) to create a unique user profile.It implements the **K-Nearest Neighbor (k-NN) algorithm** for real-time, continuous monitoring, detecting anomalies, and preventing unauthorized data access or modification within an active session.
 
 ---
 
