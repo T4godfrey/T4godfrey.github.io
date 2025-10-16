@@ -1,13 +1,11 @@
-
 ---
 title: "Contact"
 layout: single
 permalink: /contact/
 author_profile: true
 header:
-  overlay_image: /assets/images/connect.jpg 
-  overlay_filter: 0.5
- page_title: "Let's Connect!" 
+  overlay_image: /assets/images/connect.jpg # <-- Path to your new gears image
+  overlay_filter: 0.4
  ---
 
 
