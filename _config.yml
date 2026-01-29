@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Godfrey Otieno"
+  name   : "Odhiambo Godfrey Otieno"
   avatar : "assets/images/godfrey.jpg"
   bio    : " IT Security & Networking | Cybersecurity Analyst | Dital Forensics Analyst."
   links:
