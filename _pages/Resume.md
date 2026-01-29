@@ -6,21 +6,12 @@ author_profile: true
 ---
 # Godfrey Otieno Odhiambo
 
-**Network Security Professional | Cybersecurity Enthusiast | Digital Forensics Specialist**
+**IT Support and Networking | Cybersecurity Enthusiast | Digital Forensics Specialist**
 📍 Kisumu, Kenya
-📞 +254741786172
+📞 +254741786172|0790170410
 📧 [dhmbgodfrey@gmail.com](mailto:dhmbgodfrey@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/ogodfreyotieno) • [GitHub](https://github.com/T4godfrey)
 
----
-
-### Download Hard Copy
-
-<a href="https://drive.google.com/file/d/1q8CQ9i012ghapQaKu98WcpYXuwjsxuzw/export?format=pdf&download=1" class="btn btn--primary" target="_blank">
-    <i class="fas fa-file-download"></i> Download Resume (PDF)
-</a>
-
----
 
 ## Profile Summary
 
@@ -32,13 +23,12 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 ---
 
-## Technical Skills and Competencies
-
-| Category | Skills/Tools |
-| :--- | :--- |
-| **Security & Forensics** | Network security defense, Security tools configurations, Configuration, assessment and deployment, Digital Forensics and data protection proficient. |
-| **Networking & IT** | Basic Network Troubleshooting, Software Configuration and IT infrastructure Management. |
-| **General IT** | Proficient in Microsoft Office Suite (Excel, Word) and Google Workspace, Business/Office Automation tools Usage. |
+### Specialization an Competencies
+| Category | Skil/Tools | Sources
+| :--- | :--- |  :--- |
+| **IT Support and Networking** |Basic Network Troubleshooting, Software Configuration and IT infrastructure Management.  data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspace, Business/Office Automation tools Usage. protection proficient. |
+| **Cybersecurity** |  Network/Cloud security defense, Security tools configurations, Configuration, assessment and deployment, Digital Forensics. |
+| **Digital Forensics** |  |
 | **Soft Skills** | Organization skills, Time Management, Problem solving skills, Fluent Communicator and Team player, Analyzing and Researching skills with data collection. |
 
 ---
