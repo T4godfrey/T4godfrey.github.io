@@ -2,7 +2,7 @@
 title: "Resume"
 layout: single
 permalink: /resume/
-author_profile: true
+author_profile: false
 ---
 # Godfrey Otieno Odhiambo
 
@@ -23,30 +23,6 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 ---
 
-
-### Specialization and Competencies
-
-| Category | Details | Sources |
-| :--- | :--- | :--- |
-| **IT Support and Networking** |Basic Network Troubleshooting, Software Configuration, and IT infrastructure Management. Proficient in Microsoft Office Suite (Excel, Word), Google Workspaces, and Business/Office Automation tools. | [Network-Troubleshooting](https://github.com/t4godfrey/) |
-| **Cybersecurity** | Network/Cloud security defense, Security tools configurations, assessment, and deployment. Dedicated to ensuring seamless IT operations and infrastructure protection. | [Security-Configs](https://github.com/t4godfrey/) |
-| **Digital Forensics** | Applying core knowledge in networking principles and information security to digital forensics investigations. Building towards advanced levels on security operations and system monitoring. | [Forensics-Projects](https://github.com/t4godfrey/) |
-| **Soft Skills** | Strong Organization, Time Management, and Problem solving skills. Fluent Communicator and Team player ready to work flexible hours to ensure task accomplishment. | [Professional-Docs](https://github.com/t4godfrey/) |
-
-## Professional Experience
-
-### Information Technology Security Intern
-**Kenya Industrial Research and Development Institute (KIRDI)**
-*May 2024 - July 2024 (Industrial Practice)*
-
-* Offered Technical IT support services in various departments achieving prolonged services operation uptime.
-* Performed Installations, management, set-up, and maintenance of systems (printers, Scanners and PCs) in various offices, attaining smooth operations and efficiency.
-* Performed Networking operations, installations and upgrades on access points, replacement of faulty connections, and server/server room maintenance services, enhancing network speed and coverage.
-* Performed assessment and implementation of security solutions (Access controls, user and User accounts management, firewall handling and setup installations, hardware safety assurance).
-* Promoted security conscious culture through awareness and trainings to employees in relation to safe data handling, storage and access controls.
-* Performed Data entry on institution inventories specifically on business-oriented departments (Biashara center, food manufacturing dep.).
-
----
 
 ## Education
 
@@ -78,7 +54,7 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 | Category | Details |
 | :--- | :--- |
 | **Interests** | Analysis and researching about Technology and Social Networking Trends, Nature and Natural environment preservation, Politics and state issues around globe. |
-| **Hobbies** | Outdoor Activities, Socializing, Computer Gaming. |
+| **Hobbies** | Reading,Tech related Research, Outdoor Activities, Socializing, Computer Gaming. |
 
 ---
 
