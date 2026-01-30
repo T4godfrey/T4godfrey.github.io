@@ -27,10 +27,10 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 | Category | Skill/Tools | Details & Sources |
 | :--- | :--- | :--- |
-| **IT Support and Networking** | Basic Network Troubleshooting, Software Configuration, and IT infrastructure Management. | Data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspaces. [cite_start]Business/Office Automation tools usage and protection proficient with reference to compliance needs[cite: 2, 44]. |
-| **Cybersecurity** | Network/Cloud security defense and Security tools configurations. | [cite_start]Configuration, assessment, and deployment[cite: 4, 41]. [cite_start]Building towards advanced levels on security operations and system monitoring[cite: 4]. |
-| **Digital Forensics** | Analysis and investigation of digital evidence. | [cite_start]Bachelor of Science in Computer Security and Forensics graduate[cite: 4, 22]. Focused on protecting digital assets and maintaining resilient environments. |
-| **Soft Skills** | Organization, Time Management, and Problem-solving. | [cite_start]Fluent Communicator and Team player[cite: 51]. Ready to work hard, learn from experts, and contribute to the mission of Hatikvah Communications. |
+| **IT Support and Networking** | Basic Network Troubleshooting, Software Configuration, and IT infrastructure Management. | Data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspaces. Business/Office Automation tools usage and protection proficient with reference to compliance needs. |
+| **Cybersecurity** | Network/Cloud security defense and Security tools configurations. | Configuration, assessment, and deployment. Building towards advanced levels on security operations and system monitoring. |
+| **Digital Forensics** | Analysis and investigation of digital evidence. | Bachelor of Science in Computer Security and Forensics graduate. Focused on protecting digital assets and maintaining resilient environments. |
+| **Soft Skills** | Organization, Time Management, and Problem-solving. | Fluent Communicator and Team player. Ready to work hard, learn from experts, and contribute to the mission of Hatikvah Communications. |
 ---
 
 ## Professional Experience
