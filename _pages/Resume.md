@@ -24,8 +24,10 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 ---
 
 ### Specialization an Competencies
-| Category | Skil/Tools | Sources
-| **IT Support and Networking** |Basic Network Troubleshooting, Software Configuration and IT infrastructure Management.  data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspace, Business/Office Automation tools Usage. protection proficient. |
+
+| Category | Details | Sources |
+| :--- | :--- | :--- |
+| **IT Support and Networking** |Basic Network Troubleshooting, Software Configuration and IT infrastructure Management.  Data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspaces, Business/Office Automation tools Usage. protection proficient with reference to compliance needs. |
 | **Cybersecurity** |  Network/Cloud security defense, Security tools configurations, Configuration, assessment and deployment, Digital Forensics. |
 | **Digital Forensics** |  |
 | **Soft Skills** | Organization skills, Time Management, Problem solving skills, Fluent Communicator and Team player, Analyzing and Researching skills with data collection. |
