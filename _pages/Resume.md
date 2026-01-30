@@ -23,15 +23,15 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 ---
 
+
 ### Specialization and Competencies
 
-| Category | Skill/Tools | Details & Sources |
+| Category | Details | Sources |
 | :--- | :--- | :--- |
-| **IT Support and Networking** | Basic Network Troubleshooting, Software Configuration, and IT infrastructure Management. | Data Proficient in Microsoft Office Suite (Excel, Word) and Google Workspaces. Business/Office Automation tools usage and protection proficient with reference to compliance needs. |
-| **Cybersecurity** | Network/Cloud security defense and Security tools configurations. | Configuration, assessment, and deployment. Building towards advanced levels on security operations and system monitoring. |
-| **Digital Forensics** | Analysis and investigation of digital evidence. | Bachelor of Science in Computer Security and Forensics graduate. Focused on protecting digital assets and maintaining resilient environments. |
-| **Soft Skills** | Organization, Time Management, and Problem-solving. | Fluent Communicator and Team player. Ready to work hard, learn from experts, and contribute to the mission of Hatikvah Communications. |
----
+| **IT Support and Networking** | [cite_start]Basic Network Troubleshooting, Software Configuration, and IT infrastructure Management[cite: 31, 32]. [cite_start]Proficient in Microsoft Office Suite (Excel, Word), Google Workspaces, and Business/Office Automation tools[cite: 43, 44]. | [Network-Troubleshooting](https://github.com/t4godfrey/) |
+| **Cybersecurity** | [cite_start]Network/Cloud security defense, Security tools configurations, assessment, and deployment[cite: 20, 41]. [cite_start]Dedicated to ensuring seamless IT operations and infrastructure protection[cite: 4, 5]. | [Security-Configs](https://github.com/t4godfrey/) |
+| **Digital Forensics** | [cite_start]Applying core knowledge in networking principles and information security to digital forensics investigations[cite: 4]. [cite_start]Building towards advanced levels on security operations and system monitoring[cite: 4]. | [Forensics-Projects](https://github.com/t4godfrey/) |
+| **Soft Skills** | [cite_start]Strong Organization, Time Management, and Problem solving skills[cite: 46, 53]. [cite_start]Fluent Communicator and Team player ready to work flexible hours to ensure task accomplishment[cite: 51, 52]. | [Professional-Docs](https://github.com/t4godfrey/) |
 
 ## Professional Experience
 
