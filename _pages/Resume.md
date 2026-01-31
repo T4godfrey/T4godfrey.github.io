@@ -28,7 +28,7 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 ### BSc. Computer Security and Forensics
 **Jaramogi Oginga Odinga University of Science and Technology (JOOUST)**
-*September 20th, 2021 to Date*
+*September 20th, 2021 to December 17th 2025*
 
 ### Kenya Certificate of Secondary Education (B- Minus 59 Points)
 **Orando Mixed Secondary School**
