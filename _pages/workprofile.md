@@ -4,7 +4,7 @@ layout: single
 permalink: /workprofile/
 author_profile: true
 header:
-  overlay_image: /assets/images/conduct.png
+  overlay_image: /assets/images/conduct.jpg
   overlay_filter: 0.4 
 
 ---
