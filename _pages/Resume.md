@@ -53,7 +53,7 @@ I aspire to become a highly accomplished professional, driven by pursuit of exce
 
 | Category | Details |
 | :--- | :--- |
-| **Interests** | Analysis and researching about Technology and Social Networking Trends, Nature and Natural environment preservation, Politics and state issues around globe. |
+| **Interests** | Analysis and researching about Technology  and Social Networking Trends, Nature and Natural environment preservation, Politics and state issues around globe. |
 | **Hobbies** | Reading,Tech related Research, Outdoor Activities, Socializing, Computer Gaming. |
 
 ---
