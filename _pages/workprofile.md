@@ -3,6 +3,9 @@ title: "My Work profile"
 layout: single
 permalink: /workprofile/
 author_profile: true
+ header:
+  overlay_image: /assets/images/conduct.png
+  overlay_filter: 0.4 
 
 ---
 
