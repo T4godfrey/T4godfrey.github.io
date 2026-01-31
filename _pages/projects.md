@@ -4,37 +4,17 @@ layout: single
 permalink: /projects/
 author_profile: true
 header:
-  overlay_image: /assets/images/kabana.jpg # The gears image
+  overlay_image: /assets/images/kabana.jpg
   overlay_filter: 0.4 
-  caption: "Image: Mechanical Processes"
+
 page_title: "My Technical Projects & Labs"
 ---
 
-# Projects & Labs Showcase
+# Projects & Labs
 
-## Completed Work
+### 1. Continuous MFA: Smart Student Authentication (Final Year Project)
 
-### 1. Home Lab Network Infrastructure
-**Goal:** Design and implement a secure, segmented network for a small business environment.
-
-**Tools Used:**
-<span class="label label-danger">Cisco Packet Tracer</span>
-<span class="label label-success">pfSense</span>
-<span class="label label-warning">Wireshark</span>
-<span class="label label-info">VLANs</span>
-
-**Outcome:**
-Successfully demonstrated network segmentation principles and firewall policy management, ensuring data isolation between Guest, Employee, and Server networks.
-
-<blockquote class="blockquote-success">
-  <i class="fas fa-check-circle"></i> **Key Result:** Proven capability in implementing and managing security and networking policies via pfSense.
-</blockquote>
-
----
-
-### 2. Continuous MFA: Smart Student Authentication (Final Year Project)
-
-**Goal:** Developed an adaptive, **Continuous Multi-Factor Authentication (CMFA)** system to secure student data platforms by verifying user identity **beyond the initial login**.
+**Goal:** Developed an adaptive, **Behaviour-based Multi-Factor Authentication (BMFA)** system to secure student data platforms by verifying user identity **beyond the initial login by typing activity**.
 
 **Tools Used:**
 <span class="label label-danger">Python</span>
@@ -43,7 +23,7 @@ Successfully demonstrated network segmentation principles and firewall policy ma
 <span class="label label-info">pynput / scikit-learn</span>
 
 **Innovation & Outcome:**
-The system uses **keystroke dynamics** (typing rhythm biometrics) to create a unique user profile.It implements the **K-Nearest Neighbor (k-NN) algorithm** for real-time, continuous monitoring, detecting anomalies, and preventing unauthorized data access or modification within an active session.
+The system uses **keystroke dynamics** (typing rhythm biometrics) to create a unique user profile.It implements the **K-Nearest Neighbor (k-NN) algorithm** for real-time, continuous monitoring, detecting anomalies, and preventing unauthorized data access or modification with refrence to sensitive tasks.
 
 ---
 
