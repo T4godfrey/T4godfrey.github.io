@@ -19,8 +19,6 @@ My passion for network security and digital forensics led me to earn a degree in
 
 I am currently training to become a Network Security and Forensics Analyst, with a focus on mastering advanced security operations, system monitoring, and infrastructure protection.
 
-I go beyond theory by building home labs that supports interactions with networking devices,actively analyzing network traffic for vulnerabilities and working on labs and case studies that supports exposure and skills building in forensics invvestigations . My primary technical interests lie in **SIEM tools**, **network monitoring**, and **vulnerability assessment**, **incident response and investigations**.
-
 I thrive on opportunities that foster research, networking, and learning from experts, ensuring my skills align with the latest industry trends and best practices for delivering quality security services through internship or entry-level role where I can contribute and further develop my technical skills, and help protect critical assets.
   
-[View My Resume](/resume/) | [See My Projects](/projects/)
+ [Work profile Competence](/workprofile/) | [View My Resume](/resume/) | [See My Projects](/projects/)
